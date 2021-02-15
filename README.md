@@ -1,1 +1,1 @@
-# Facial-Recognition-using-OpenCV-Python-
+# Facial-Recognition-using-OpenCV-Python
